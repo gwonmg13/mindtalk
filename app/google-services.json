@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291887700409",
+    "firebase_url": "https://mindtalk-a1b5e.firebaseio.com",
+    "project_id": "mindtalk-a1b5e",
+    "storage_bucket": "mindtalk-a1b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291887700409:android:0e5ca10fa23ac8c5",
+        "android_client_info": {
+          "package_name": "com.joinandjoin.manggi.mindtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291887700409-bbciopla19t4hnnmpfidstqrk6gjfl4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joinandjoin.manggi.mindtalk",
+            "certificate_hash": "31482c2a3235338f43e13007ea73b85d70c7456e"
+          }
+        },
+        {
+          "client_id": "291887700409-7mgedme8qmtm7tqqeeojpldeog77e8o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYDoKKFg7V2o0zPSNcLnAOu_4mfq750lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291887700409-7mgedme8qmtm7tqqeeojpldeog77e8o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
